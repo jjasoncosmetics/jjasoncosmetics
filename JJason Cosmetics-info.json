@@ -1,0 +1,36 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2026-01-27T10:49:48.025Z",
+  "last_modified_by_me": "2026-01-27T10:49:46.578Z",
+  "content_last_modified": "2026-01-27T10:49:48.025Z",
+  "created": "2024-04-09T15:48:53.935Z",
+  "permissions": [
+    {
+      "id": "anyone",
+      "type": "anyone",
+      "role": "reader",
+      "kind": "drive#permission",
+      "with_link": false,
+      "view": "published"
+    },
+    {
+      "id": "11634838801978376522",
+      "name": "JJason Cosmetics",
+      "type": "user",
+      "role": "owner",
+      "value": "jjasoncosmetics@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJX__PA0lu-kWyQzu_XLGdj4cmXvY9nN2jm2-LeZ1-cmbgHd_4=s64",
+      "email_address": "jjasoncosmetics@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "JJason Cosmetics",
+  "drive_id": "1iHsu4q6Zy2mnmj-6GvAGgfpKokOin2QJ",
+  "mime_type": "application/vnd.google-apps.site",
+  "published_url": "https://sites.google.com/view/jjasoncosmetics",
+  "download_url": "https://sites.google.com/d/1iHsu4q6Zy2mnmj-6GvAGgfpKokOin2QJ/edit?ouid=116082077395068042241"
+}
